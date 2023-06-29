@@ -1,11 +1,11 @@
 :root {
-  --navyblue: #2e2f42;
-  --iris: #4d5ae5;
-  --ocean: #404bbf;
-  --slate: #434455;
-  --white: #fff;
-  --cloud: #f4f4fd;
-  --background: #fff;
+  --navyblue:#2e2f42;
+  --iris:#4d5ae5;
+  --ocean:#404bbf;
+  --slate:#434455;
+  --white:#fff;
+  --cloud:#f4f4fd;
+  --background:#fff;
 }
 body {
   font-size: 16px;
