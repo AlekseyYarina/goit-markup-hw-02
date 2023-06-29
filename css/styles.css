@@ -129,6 +129,12 @@ body {
 .section-four {
   background: var(--cloud, #f4f4fd);
 }
+.team-card{
+    background-color: #FFFFFF;   
+}
+.p-style{
+    font-size: 16px;   
+}
 .footer {
   background: var(--navyblue, #2e2f42);
   color: var(--cloud, #f4f4fd);
