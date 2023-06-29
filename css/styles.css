@@ -83,7 +83,6 @@ body {
   letter-spacing: 0.02em;
   text-align: center
 }
-
 .button-index {
   background: var(--iris, #4d5ae5);
   color: var(--white, #fff);
