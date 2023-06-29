@@ -89,8 +89,10 @@ li {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: -0.04em;
+  cursor: pointer;
 }
-.button-index:hover {
+.button-index:hover
+.button-index:focus {
   background: var(--ocean, #404bbf);
   color: var(--white, #fff);
   font-size: 16px;
@@ -99,6 +101,7 @@ li {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: -0.04em;
+  cursor: pointer;
 }
 .section-title-item {
   color: var(--navyblue, #2e2f42);
@@ -159,8 +162,10 @@ li {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: -0.04em;
+  cursor: pointer;
 }
-.portfolio-button:hover {
+.portfolio-button:hover
+.portfolio-button:focus {
   border-radius: 4px;
   border: 1px solid var(--cornflower, #e7e9fc);
   background: var(--ocean, #404bbf);
@@ -172,6 +177,7 @@ li {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: -0.04em;
+  cursor: pointer;
 }
 .visually-hidden {
   position: absolute;
