@@ -78,6 +78,8 @@ body {
 .section-one {
   background: var(--navyblue, #2e2f42);
   color: var(--white, #fff);
+}
+.section-one-title {
   font-size: 56px;
   font-family: "Roboto", sans-serif;
   font-style: normal;
@@ -85,15 +87,6 @@ body {
   line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
-}
-.section-one-title{
-  font-size: 56px;
-  font-family: "Roboto", sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  line-height: 1.07;
-  letter-spacing: 0.02em;
-  text-align: center;  
 }
 .button-index {
   background: var(--iris, #4d5ae5);
