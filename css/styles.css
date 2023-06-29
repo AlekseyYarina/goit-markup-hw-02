@@ -15,8 +15,8 @@ body {
   color: var(--slate, #434455);
   background-color: var(--background, #fff);
 }
-.list{
-    list-style: none;
+.list {
+  list-style: none;
 }
 .link {
   text-decoration: none;
@@ -94,7 +94,7 @@ body {
   letter-spacing: -0.04em;
   cursor: pointer;
 }
-.button-index:hover, 
+.button-index:hover,
 .button-index:focus {
   background: var(--ocean, #404bbf);
   color: var(--white, #fff);
