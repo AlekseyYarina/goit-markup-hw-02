@@ -15,16 +15,13 @@ body {
   color: var(--slate, #434455);
   background-color: var(--background, #fff);
 }
-li{
-    list-style: none; 
-}
-.list {
-  list-style: none;
+.list{
+    list-style: none;
 }
 .link {
   text-decoration: none;
 }
-.header-logo {
+.logo {
   color: var(--iris, #4d5ae5);
   font-size: 18px;
   font-family: "Raleway", sans-serif;
@@ -33,7 +30,7 @@ li{
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
-.header-logo-accent {
+.logo-accent {
   color: var(--navyblue, #2e2f42);
 }
 
