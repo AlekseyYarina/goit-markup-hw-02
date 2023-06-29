@@ -11,7 +11,7 @@ body {
   font-size: 16px;
   font-family: "Roboto", sans-serif;
   line-height: 1.5;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
   color: var(--slate, #434455);
   background-color: var(--background, #fff);
 }
@@ -37,7 +37,7 @@ body {
 .header-menu-item {
   color: var(--navyblue, #2e2f42);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -47,7 +47,7 @@ body {
 .header-menu-item:focus {
   color: var(--ocean, #404bbf);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
@@ -56,7 +56,7 @@ body {
 .adress-list-item {
   color: var(--slate, #434455);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -66,7 +66,7 @@ body {
 .adress-list-item:focus {
   color: var(--ocean, #404bbf);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -76,22 +76,22 @@ body {
   background: var(--navyblue, #2e2f42);
   color: var(--white, #fff);
   font-size: 56px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   line-height: 1.07;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
 }
 
 .button-index {
   background: var(--iris, #4d5ae5);
   color: var(--white, #fff);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: -0.04em;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .button-index:hover,
@@ -99,31 +99,31 @@ body {
   background: var(--ocean, #404bbf);
   color: var(--white, #fff);
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: -0.04em;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .section-title-item {
   color: var(--navyblue, #2e2f42);
   font-size: 20px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.2;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
 }
 .section-title {
   color: var(--navyblue, #2e2f42);
   text-align: center;
   font-size: 36px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   line-height: 1.11;
-  letter-spacing: -0.02em;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .section-four {
@@ -136,34 +136,33 @@ body {
 .footer-logo {
   color: var(--cloud, #f4f4fd);
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   line-height: 1.16;
-  letter-spacing: -0.03em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .footer-logo-accent {
   color: var(--iris, #4d5ae5);
   font-size: 18px;
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   line-height: 1.16;
-  letter-spacing: -0.03em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .portfolio-button {
   border: 1px solid var(--cornflower, #e7e9fc);
   background: var(--cloud, #f4f4fd);
   color: var(--iris, #4d5ae5);
-  text-align: center;
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: -0.04em;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
 .portfolio-button:hover,
@@ -171,20 +170,12 @@ body {
   border: 1px solid var(--cornflower, #e7e9fc);
   background: var(--ocean, #404bbf);
   color: var(--white, #fff);
-  text-align: center;
   font-size: 16px;
-  font-family: Roboto;
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   line-height: 1.5;
-  letter-spacing: -0.04em;
+  letter-spacing: 0.04em;
   cursor: pointer;
 }
-.visually-hidden {
-  margin: -1px;
-  border: 0;
-  white-space: nowrap;
-  clip-path: inset(100%);
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-}
+
