@@ -53,6 +53,9 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+.address{
+    font-style: normal;    
+}
 .adress-list-item {
   color: var(--slate, #434455);
   font-size: 16px;
