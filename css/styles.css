@@ -1,11 +1,11 @@
 :root {
-  --navyblue:#2e2f42;
-  --iris:#4d5ae5;
-  --ocean:#404bbf;
-  --slate:#434455;
-  --white:#fff;
-  --cloud:#f4f4fd;
-  --background:#fff;
+  --navyblue: #2e2f42;
+  --iris: #4d5ae5;
+  --ocean: #404bbf;
+  --slate: #434455;
+  --white: #fff;
+  --cloud: #f4f4fd;
+  --background: #fff;
 }
 body {
   font-size: 16px;
@@ -53,8 +53,8 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.address{
-font-style: normal; 
+.address {
+  font-style: normal;
 }
 .adress-list-item {
   color: var(--slate, #434455);
@@ -142,22 +142,13 @@ font-style: normal;
   background: var(--navyblue, #2e2f42);
   color: var(--cloud, #f4f4fd);
 }
-.footer-logo{
-    color: var(--iris, #4d5ae5);
-    font-size: 18px;
-    font-family: "Raleway", sans-serif;
-    font-weight: 800;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase; 
-}
 .footter-logo-accent {
   color: var(--cloud, #f4f4fd);
   font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
